@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="islands.backend.GameModelTest$canPlayTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-22T17:51:10" hostname="Omars-MacBook-Air.local" time="0.016">
+  <properties/>
+  <testcase name="playIntoEmptySpotSuperLarge()" classname="islands.backend.GameModelTest$canPlayTests" time="0.011"/>
+  <testcase name="playIntoEmptySpotLarge()" classname="islands.backend.GameModelTest$canPlayTests" time="0.001"/>
+  <testcase name="playIntoOccupiedSpotBlack()" classname="islands.backend.GameModelTest$canPlayTests" time="0.0"/>
+  <testcase name="playIntoOccupiedSpotWhite()" classname="islands.backend.GameModelTest$canPlayTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

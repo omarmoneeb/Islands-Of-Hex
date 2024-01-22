@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="islands.backend.GameModelTest$ScoreTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-01-22T17:51:10" hostname="Omars-MacBook-Air.local" time="0.012">
+  <properties/>
+  <testcase name="Connect 2 existing islands of same color through E-W" classname="islands.backend.GameModelTest$ScoreTests" time="0.002"/>
+  <testcase name="Connect 2 existing islands of same color through N-S" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <testcase name="Initial Board has score 0 0" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <testcase name="GameBoard with 1 black piece" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <testcase name="Join 3 islands with a single new piece" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <testcase name="Adjacent Tiles of opposite color are separate islands" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <testcase name="Connect 2 existing islands of same color through NW-SE" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <testcase name="GameBoard with 1 white piece" classname="islands.backend.GameModelTest$ScoreTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

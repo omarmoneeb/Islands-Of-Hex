@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="islands.backend.GameModelTest$FirstDeliverableTests" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-01-22T17:51:10" hostname="Omars-MacBook-Air.local" time="0.072">
+  <properties/>
+  <testcase name="CanPlay throws exception if col is negative" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.002"/>
+  <testcase name="CanPlay throws exception if row is negative" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="CanPlay throws exception if row, col outside bounds" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[1] 0" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.022"/>
+  <testcase name="[2] 1" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[3] 2" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[4] 3" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.0"/>
+  <testcase name="[5] 4" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[1] 0" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[2] 1" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[3] 2" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="[4] 3" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.0"/>
+  <testcase name="[5] 4" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <testcase name="CanPlay throws exception if col is negative" classname="islands.backend.GameModelTest$FirstDeliverableTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
